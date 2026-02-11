@@ -29,7 +29,6 @@ https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
   <img src="Screenshots/Screenshot_9.png" width="350">   
   <img src="Screenshots/Screenshot_10.png" width="350">
   <img src="Screenshots/Screenshot_11.png" width="350">
-  <img src="Screenshots/Screenshot_11.png" width="350">
   <img src="Screenshots/Screenshot_12.png" width="350">
   <img src="Screenshots/Screenshot_13.png" width="350">
   <img src="Screenshots/Screenshot_14.png" width="350">
