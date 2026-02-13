@@ -1,6 +1,6 @@
 # Westside Roleplay
 
-Westside Roleplay is a German-language roleplay gamemode that was developed from 2014 to 2016. It is outdated and does not use Multi Theft Auto’s internal database functions. The MySQL module is required. Additionally, some systems may no longer work due to outdated functions. The gamemode includes everything a roleplay script needs: jobs, factions, houses, quests, various side and faction activities, and more.
+Westside Roleplay is a German-language roleplay gamemode that was developed from 2014 to 2016. It is outdated and does not use Multi Theft Auto’s internal database functions. The MySQL module is required. Additionally, some systems may no longer work due to outdated functions. The gamemode includes everything a roleplay script needs: jobs, factions, houses, quests, various side and faction activities, and more. Some images, like the speedometer, are damaged and no longer load.
 
 
 Westside Roleplay is an edited and expanded version of Vio-Extended.   
