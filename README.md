@@ -17,6 +17,9 @@ https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
 |comment-lines|998|
 |comment-characters|21494|
 
+### Gameplay and Screenshots
+* https://youtu.be/kklB1miVeYk
+
 <p align="center">
   <img src="Screenshots/Screenshot_1.png" width="350">
   <img src="Screenshots/Screenshot_2.png" width="350">
