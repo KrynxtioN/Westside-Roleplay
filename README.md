@@ -263,7 +263,7 @@ Westside Roleplay includes several custom interfaces and utility systems.
 1. Place the `WestsideRoleplay` folder inside your MTA server's `resources` directory.
 2. Install the required MTA MySQL module for your server architecture (32-bit or 64-bit). Compatible module files are included in the repository.
 3. Create a MySQL database and import the included `westsideroleplay.sql` file.
-4. Configure the database connection in the gamemode's MySQL configuration files.
+4. Configure the database connection in the gamemode's MySQL configuration files (Mysql/Mysql_start.lua).
 5. Ensure the required MySQL module is loaded by your MTA server.
 6. Start the `WestsideRoleplay` resource.
 
