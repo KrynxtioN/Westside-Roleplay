@@ -1,4 +1,6 @@
-# Westside Roleplay
+<p align="center">
+  <img src="WR_BANNER.png">
+</p>
 
 Westside Roleplay is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
 
