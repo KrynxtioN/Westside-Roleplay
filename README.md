@@ -1,10 +1,6 @@
 # Westside Roleplay
 
-Westside Roleplay is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
-
-The gamemode is an edited and expanded version of Vio-Extended and provides a wide range of roleplay systems, including factions, jobs, housing, vehicles, businesses, quests, achievements, player progression, economy systems and various additional activities.
-
-Westside Roleplay uses a MySQL-based database system and includes numerous custom interfaces, gameplay mechanics and administrative features.
+Westside Roleplay is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA). It is outdated and does not use Multi Theft Auto’s internal database functions. The MySQL module is required. Additionally, some systems may no longer work due to outdated functions. The gamemode includes everything a roleplay script needs: jobs, factions, houses, quests, various side and faction activities, and more. Some images, like the speedometer, are damaged and no longer load.
 
 ## 👤 Accounts & Player Progression
 
@@ -269,18 +265,6 @@ Westside Roleplay includes several custom interfaces and utility systems.
 
 MySQL Module:  
 https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
-
-### ⚠️ Important Notes
-
-Westside Roleplay was developed between 2014 and 2016 and is no longer actively maintained.
-
-The gamemode uses the legacy MTA MySQL module instead of Multi Theft Auto's built-in database functions.
-
-Due to its age, some systems may no longer function correctly on modern MTA server versions and may require adjustments or updates.
-
-Additionally, some graphical assets, including parts of the speedometer, are damaged and may not load correctly.
-
-The gamemode is primarily intended for developers who want to explore, modify or modernize an older German roleplay script.
 
 ## 🎬 Media
 
