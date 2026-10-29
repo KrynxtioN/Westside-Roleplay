@@ -1,14 +1,14 @@
 # Westside Roleplay
 
-Westside Roleplay is a **German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA)**, developed between 2014 and 2016.
+Westside Roleplay is a German-language roleplay gamemode for Multi Theft Auto: San Andreas (MTA:SA).
 
-The gamemode is an edited and expanded version of **Vio-Extended** and provides a wide range of roleplay systems, including factions, jobs, housing, vehicles, businesses, quests, achievements, player progression, economy systems and various additional activities.
+The gamemode is an edited and expanded version of Vio-Extended and provides a wide range of roleplay systems, including factions, jobs, housing, vehicles, businesses, quests, achievements, player progression, economy systems and various additional activities.
 
 Westside Roleplay uses a MySQL-based database system and includes numerous custom interfaces, gameplay mechanics and administrative features.
 
 ## 👤 Accounts & Player Progression
 
-Westside Roleplay includes its own **registration and login system with MySQL persistence**.
+Westside Roleplay includes its own registration and login system with MySQL persistence.
 
 The gamemode provides several systems for managing player accounts and progression, including:
 
@@ -27,7 +27,7 @@ The integrated level and quest systems provide additional progression opportunit
 
 ## 👮 Factions & Organizations
 
-Westside Roleplay includes an extensive **faction system** with various government organizations, criminal factions and other groups.
+Westside Roleplay includes an extensive faction system with various government organizations, criminal factions and other groups.
 
 The gamemode contains implementations for several factions, including:
 
@@ -57,7 +57,7 @@ Additional faction systems include:
 
 ## 💼 Jobs & Employment
 
-Players can earn money through a variety of **civilian jobs** distributed across the game world.
+Players can earn money through a variety of civilian jobs distributed across the game world.
 
 Available job implementations include:
 
@@ -78,7 +78,7 @@ Different jobs provide their own gameplay mechanics and activities.
 
 ## 🚗 Vehicle System
 
-Westside Roleplay includes an extensive **vehicle ownership and management system**.
+Westside Roleplay includes an extensive vehicle ownership and management system.
 
 Players can purchase, own and customize vehicles through various dealerships and vehicle-related services.
 
@@ -105,7 +105,7 @@ A custom speedometer and vehicle interface provide information while driving.
 
 ## 🏠 Housing & Properties
 
-The integrated **housing system** allows players to interact with residential properties throughout the game world.
+The integrated housing system allows players to interact with residential properties throughout the game world.
 
 The system includes:
 
@@ -217,7 +217,7 @@ Additional gameplay systems include:
 
 ## 🛡️ Administration & Anti-Cheat
 
-The gamemode includes its own **administration and anti-cheat systems**.
+The gamemode includes its own administration and anti-cheat systems.
 
 Administration features include:
 
@@ -261,18 +261,18 @@ Westside Roleplay includes several custom interfaces and utility systems.
 ## ⚙️ Installation
 
 1. Place the `WestsideRoleplay` folder inside your MTA server's `resources` directory.
-2. Install the required **MTA MySQL module** for your server architecture (32-bit or 64-bit). Compatible module files are included in the repository.
+2. Install the required MTA MySQL module for your server architecture (32-bit or 64-bit). Compatible module files are included in the repository.
 3. Create a MySQL database and import the included `westsideroleplay.sql` file.
 4. Configure the database connection in the gamemode's MySQL configuration files.
 5. Ensure the required MySQL module is loaded by your MTA server.
 6. Start the `WestsideRoleplay` resource.
 
-**MySQL Module:**  
+MySQL Module:  
 https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL
 
 ### ⚠️ Important Notes
 
-Westside Roleplay was developed between **2014 and 2016** and is no longer actively maintained.
+Westside Roleplay was developed between 2014 and 2016 and is no longer actively maintained.
 
 The gamemode uses the legacy MTA MySQL module instead of Multi Theft Auto's built-in database functions.
 
